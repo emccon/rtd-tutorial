@@ -11,13 +11,13 @@ how to :ref:`installation` the project.
 
 Lumache has its documentation hosted on Read the Docs. Test.
 
-```
+~~~
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
-```
+~~~
 
 .. note::
 
