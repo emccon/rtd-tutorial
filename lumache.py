@@ -2,6 +2,14 @@
 Lumache - Python library for cooks and food lovers.
 """
 
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
 __version__ = "0.1.0"
 
 
